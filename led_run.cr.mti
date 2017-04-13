@@ -1,0 +1,36 @@
+C:/altera/project/led_run/led0_module.v {1 {vlog -work led_run -stats=none {C:\altera\project\led_run\led0_module.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module led0_module
+
+Top level modules:
+	led0_module
+
+} {} {}} C:/altera/project/led_run/led1_module.v {1 {vlog -work led_run -stats=none {C:\altera\project\led_run\led1_module.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module led1_module
+
+Top level modules:
+	led1_module
+
+} {} {}} C:/altera/project/led_run/led2_module.v {1 {vlog -work led_run -stats=none {C:\altera\project\led_run\led2_module.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module led2_module
+
+Top level modules:
+	led2_module
+
+} {} {}} C:/altera/project/led_run/led_run.v {1 {vlog -work led_run -stats=none {C:\altera\project\led_run\led_run.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module led_run
+
+Top level modules:
+	led_run
+
+} {} {}} C:/altera/project/led_run/led3_module.v {1 {vlog -work led_run -stats=none {C:\altera\project\led_run\led3_module.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module led3_module
+
+Top level modules:
+	led3_module
+
+} {} {}}
